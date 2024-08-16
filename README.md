@@ -13,6 +13,7 @@ http://localhost/micomida/
 Também é necessário a criação da pasta e o banco  no PHPADMIN, para que a aplicação possa ser executada. 
 Este repositório inclui os arquivos iniciais para a execução da aplicação web no momento, futuras modificações serão aplicadas e sinalizadas em uma nota explicativa.
 
+Obs a tabela comentário e a tabela horário ainda estão em construção.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center"> Telas de apresentação </h2>

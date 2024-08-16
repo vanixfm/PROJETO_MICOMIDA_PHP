@@ -2,13 +2,13 @@
 
 Projeto Integrador - Este repositório é referente a uma atividade avaliativa prática do Curso de Análise e Desenvolvimento de Sistemas.
 Aqui, inclui-se hospedagem de uma página web, banco de dados, e demais informações.
-Responsáveis: Jeferson Alves e Vanessa Favero - Uniopet
+Responsáveis: Vanessa Favero , Jeferson Alves- Uniopet
 
 Nosso grande objetivo é criar uma aplicação web e mobile onde você encontre os melhores lugares para comer, e perto da  sua casa. Com o Micomida é só dar um clique que você encontra o que mais precisa.
 Ao longo do curso nós desenvolvemos diversas práticas, como o front end ou popularmente 'visual', nela conseguimos integrar alguns conhecimentos como HTML, CSS, BOOTSTRAP, Bibliotecas JAVASCRIPT. Adiante tivemos a oportunidade de lidar com  SQL, e diversos tipos de bancos de dados, como MYSQL, ORACLE, SQL SERVER. Inclusive para a elaboração do projeto utilizamos PHP e MYSQL. Mais adiante a intenção é o melhoramento da aplicação web e a sua transformação em mobile, podendo utilizar JAVA, KOTLIN e o ANDROID STUDIO.
 
 Para executá-lo é necessário que você tenha o XAMPP instalado em seu computador, ative em seguida as duas opções: Apache e  MySQL. Feito isto digite no navegador de sua preferência :
-http://localhost/restaurante/
+http://localhost/micomida/
 
 Também é necessário a criação da pasta e o banco  no PHPADMIN, para que a aplicação possa ser executada. 
 Este repositório inclui os arquivos iniciais para a execução da aplicação web no momento, futuras modificações serão aplicadas e sinalizadas em uma nota explicativa.
@@ -18,9 +18,9 @@ Este repositório inclui os arquivos iniciais para a execução da aplicação w
 <h2 align="center"> Telas de apresentação </h2>
 
 <a href="#" target="_blank"> 
- <img src="img/1.png" width="400" height="400" align="center"/>
- <img src="img/2.png" width="400" height="400" align="center"/>
- <img src="img/3.png" width="400" height="400" align="center"/>
+ <img src="img/1.png" width="400" height="300" align="left"/>
+ <img src="img/2.png" width="400" height="300" align="left"/>
+ 
 </a>
 
 
